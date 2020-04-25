@@ -1,0 +1,1 @@
+web: streamlit run data_explorer.py --server.enableCORS false --server.port $PORT
